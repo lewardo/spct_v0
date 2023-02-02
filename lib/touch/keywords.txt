@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For touch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+touch	KEYWORD1
+length_t KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+calibrate	KEYWORD2
+update	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TOUCH_DEFAULT_DELAY LITERAL1
+TOUCH_MULTIPLIER LITERAL1
+TOUCH_NUM_SAMPLES LITERAL1

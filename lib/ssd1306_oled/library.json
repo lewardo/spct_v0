@@ -1,0 +1,9 @@
+{
+    "name": "ssd1306 oled",
+    "version": "0.1.7",
+    "keywords": "oled display ssd1306",
+    "description": "library to interface with ssd1306 oleds over the i2c interface [based on Sparkfun's MicroOLED library]",
+    "frameworks": "arduino",
+    "url":"",
+    "platforms": "*"
+}

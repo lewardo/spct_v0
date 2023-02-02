@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For SFE_MicroOLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ssd1306_oled	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+clear	KEYWORD2
+write   KEYWORD2
+print   KEYWORD2
+invert	KEYWORD2
+contrast	KEYWORD2
+display	KEYWORD2
+set_cursor	KEYWORD2
+pixel	KEYWORD2
+line	KEYWORD2
+rect	KEYWORD2
+rect_fill	KEYWORD2
+circle	 KEYWORD2
+circle_fill	KEYWORD2
+draw_char	KEYWORD2
+draw_bmp    KEYWORD2
+set_font	KEYWORD2
+flip_vertical	KEYWORD2
+flip_horizontal	KEYWORD2
