@@ -1,0 +1,3 @@
+[submodule "lib/Scheduler"]
+	path = lib/Scheduler
+	url = https://github.com/mikaelpatel/Arduino-Scheduler.git
