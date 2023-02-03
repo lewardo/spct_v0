@@ -5,4 +5,5 @@ The [frames](frame.stl) are designed for 50mm×3mm acrylic discs, which are pres
 
 Printed on Creality Ender 3 Pro with CR-Touch and 32-bit firmware patches, 0.12mm layer height and 20% infill
 
-TODO: make hinges suck less
+TODO: make hinges suck less  
+TODO: make entire 3d model be generally less trash
